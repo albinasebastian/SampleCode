@@ -1,0 +1,2 @@
+# SampleCode
+two simple codes
